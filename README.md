@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Link to the main page of Movies Browser](https://wroblewski82.github.io/movies-browser/)
+[Link to the main page of Movies Browser](https://wroblewskisoftware.github.io/movies-browser/)
 
 ## Description
 
